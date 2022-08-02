@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="symbol" type="AUTO_DETECTED" />
+      <mapping pattern="howToDeployFunctions" type="AUTO_DETECTED" />
+      <mapping pattern="mangopayShared" type="Native" />
+      <mapping ext="fch" type="PLAIN_TEXT" />
+      <mapping ext="interface" type="PLAIN_TEXT" />
+      <mapping ext="priceperday" type="PLAIN_TEXT" />
+      <mapping ext="mht" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
