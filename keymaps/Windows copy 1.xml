@@ -28,6 +28,10 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="Graph.RouteEdges" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="Move" />
@@ -63,4 +67,5 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource" />
   <action id="XDebugger.JumpToSource" />
+  <action id="context.load" />
 </keymap>
