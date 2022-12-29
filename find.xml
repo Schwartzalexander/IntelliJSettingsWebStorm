@@ -23,5 +23,6 @@
     <mask>*html</mask>
     <mask>*.spec.ts</mask>
     <mask>*.html</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
