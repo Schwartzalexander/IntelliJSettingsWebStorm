@@ -4,6 +4,8 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="ChangesView.Move" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -20,6 +22,10 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="ExternalSystem.OpenConfig" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -28,6 +34,18 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="Graph.RouteEdges" />
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="shift alt l" />
@@ -42,6 +60,7 @@
     <mouse-shortcut keystroke="shift alt button1" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource" />
   <action id="ReplaceInPath">
@@ -66,6 +85,8 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.JumpToSource" />
   <action id="context.load" />
+  <action id="hg4idea.QPushAction" />
 </keymap>
