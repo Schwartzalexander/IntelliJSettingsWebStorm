@@ -21,9 +21,9 @@
     <mask>*interface*.ts</mask>
     <mask>*html</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.html</mask>
     <mask>*.sass</mask>
     <mask>D:\dev\WebStorm\StockForecastAngular\src\app\admin\schedules-editor\*</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
