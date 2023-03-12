@@ -29,9 +29,16 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="Graph.RouteEdges" />
   <action id="IntroduceConstant">
@@ -82,9 +89,11 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Terminal.ClearBuffer" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.JumpToSource" />
   <action id="context.load" />
