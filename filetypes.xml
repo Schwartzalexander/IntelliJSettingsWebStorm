@@ -8,6 +8,7 @@
       <mapping ext="textile" type="PLAIN_TEXT" />
       <mapping ext="priceperday" type="PLAIN_TEXT" />
       <mapping ext="fch" type="PLAIN_TEXT" />
+      <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="interface" type="PLAIN_TEXT" />
       <mapping ext="mht" type="XHTML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
